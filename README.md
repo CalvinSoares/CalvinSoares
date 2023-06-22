@@ -2,7 +2,6 @@
 
 - 🔭 Procurando vaga como Desenvolvedor
 - 🌱 Atualmente estou estudando: JavaScript, Python e react
-- 😄 Pronouns: Ele/Dele
 
 
 <div style="display: inline_block"><br>

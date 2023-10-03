@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🔭 Procurando vaga como Desenvolvedor
-- 🌱 Atualmente estou estudando: JavaScript, Python e react
+- 🔭 Procurando vaga como Desenvolvedor web
+- 🌱 Atualmente estou estudando javascript, typescript, react e chakra UI
+- 🦆 Estou participando de um projeto de criação de um game 2D
 
 
   </br>

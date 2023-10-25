@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 Procurando vaga como Desenvolvedor web
-- 🌱 Atualmente estou estudando javascript, typescript, react e chakra UI
-- 🦆 Estou participando de um projeto de criação de um game 2D
+- 🌱 Atualmente estou estudando javascript, typescript, react e tailwindcss
+- 🦆 Estou participando de um projeto de criação de um game 2D e na criação de um site pra uma startup junior
 
 
   </br>

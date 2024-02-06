@@ -23,7 +23,7 @@
 
 ![Postman](https://img.shields.io/badge/postman-orange.svg?style=for-the-badge&logo=postman&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
  
-![Gitkraken](https://img.shields.io/badge/gitkraken-74aa9c.svg?style=for-the-badge&logo=gitkraken&logoColor=white)  
+![Gitkraken](https://img.shields.io/badge/gitkraken-74aa9c.svg?style=for-the-badge&logo=gitkraken&logoColor=white) ![Gitflo](https://img.shields.io/badge/gitflow-black.svg?style=for-the-badge&logo=gitflow&logoColor=white)
 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 

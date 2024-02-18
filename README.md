@@ -19,11 +19,11 @@
 
 ![Tailwind](https://img.shields.io/badge/tailwindcss-skyblue.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![ApexCharts](https://img.shields.io/badge/apexcharts-green.svg?style=for-the-badge&logo=apexcharts&logoColor=white)  ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
-![Docker](https://img.shields.io/badge/docker-blue.svg?style=for-the-badge&logo=docker&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-black.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Prisma](https://img.shields.io/badge/prisma-purple.svg?style=for-the-badge&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-blue.svg?style=for-the-badge&logo=docker&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-black.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Prisma](https://img.shields.io/badge/prisma-purple.svg?style=for-the-badge&logo=prisma&logoColor=white)
 
 ![Postman](https://img.shields.io/badge/postman-orange.svg?style=for-the-badge&logo=postman&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
  
-![Gitkraken](https://img.shields.io/badge/gitkraken-74aa9c.svg?style=for-the-badge&logo=gitkraken&logoColor=white) ![Gitflo](https://img.shields.io/badge/gitflow-black.svg?style=for-the-badge&logo=gitflow&logoColor=white)
+![Gitkraken](https://img.shields.io/badge/gitkraken-74aa9c.svg?style=for-the-badge&logo=gitkraken&logoColor=white) ![Gitflow](https://img.shields.io/badge/gitflow-black.svg?style=for-the-badge&logo=gitflow&logoColor=white)
 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 

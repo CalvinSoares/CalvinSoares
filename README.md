@@ -16,7 +16,7 @@
 ![Next](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Next](https://img.shields.io/badge/react-blue.svg?style=for-the-badge&logo=react&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-![Tailwind](https://img.shields.io/badge/tailwindcss-skyblue.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
+![Tailwind](https://img.shields.io/badge/tailwindcss-skyblue.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/docker-blue.svg?style=for-the-badge&logo=docker&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-black.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/Mongodb-green?style=for-the-badge&logo=Mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/prisma-purple.svg?style=for-the-badge&logo=prisma&logoColor=white) 
 

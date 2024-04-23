@@ -28,4 +28,3 @@
 [![card](https://github-readme-stats.vercel.app/api?username=CalvinSoares&theme=omni&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CalvinSoares&theme=omni&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

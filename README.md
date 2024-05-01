@@ -18,7 +18,7 @@
 
 ![Tailwind](https://img.shields.io/badge/tailwindcss-skyblue.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-![Docker](https://img.shields.io/badge/docker-blue.svg?style=for-the-badge&logo=docker&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-black.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/Mongodb-green?style=for-the-badge&logo=Mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/prisma-purple.svg?style=for-the-badge&logo=prisma&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/Mongodb-green?style=for-the-badge&logo=Mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-esmerald?style=for-the-badge&logo=Supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/prisma-purple.svg?style=for-the-badge&logo=prisma&logoColor=white) 
 
 ![Postman](https://img.shields.io/badge/postman-orange.svg?style=for-the-badge&logo=postman&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
  

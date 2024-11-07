@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 Procurando vaga como programador fullstack ou front-end
-- 🌱 Atualmente estou estudando typescript e nestjs
+- 🌱 Atualmente estou estudando ASP.NET e kubernetes
 
 
   </br>

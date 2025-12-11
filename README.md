@@ -30,6 +30,6 @@
 ![Gitkraken](https://img.shields.io/badge/gitkraken-74aa9c.svg?style=for-the-badge&logo=gitkraken&logoColor=white) ![Gitflow](https://img.shields.io/badge/gitflow-black.svg?style=for-the-badge&logo=gitflow&logoColor=white)
   </br>
  
-[![card](https://github-readme-stats.vercel.app/api?username=CalvinSoares&theme=omni&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CalvinSoares&theme=omni&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CalvinSoares&theme=github_dark&layout=compact)](https://github.com/vn7n24/github-profile-summary-cards)
 
+[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CalvinSoares&theme=github_dark)](https://github.com/vn7n24/github-profile-summary-cards)

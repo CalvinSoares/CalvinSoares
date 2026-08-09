@@ -1,8 +1,5 @@
-### Hi there 👋
 
-- 🔭 Procurando vaga como programador fullstack ou front-end
-- 🌱 Atualmente estou estudando ASP.NET e kubernetes
-
+# Se liga no portfolio do pai
 
   </br>
   <div> 

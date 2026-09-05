@@ -1,10 +1,10 @@
 <table border="0">
   <tr>
-    <td width="28%" align="center" valign="middle">
-<img width="309" height="246" alt="duck" src="https://github.com/user-attachments/assets/dc605b18-04d6-41a0-abe2-68db9a0fad90" />
- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDM2ZWZ4MmRvaWtkNWU5YXJza241cmk2NWlrbmxoYnl2ZnMxaDRsbiZlcD12MV9pbnRlcm5hbF_naWZfYnlfaWQmY3Q9Zw/k3P1HSUaLlfSpB23JR/giphy.gif" width="100%" alt="Pixel Art Mascot 🦆" />
+    <td width="30%" align="center" valign="middle">
+      <img src="https://github.com/user-attachments/assets/dc605b18-04d6-41a0-abe2-68db9a0fad90" width="100%" alt="duck" />
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDM2ZWZ4MmRvaWtkNWU5YXJza241cmk2NWlrbmxoYnl2ZnMxaDRsbiZlcD12MV9pbnRlcm5hbF_naWZfYnlfaWQmY3Q9Zw/k3P1HSUaLlfSpB23JR/giphy.gif" width="100%" alt="Pixel Art Mascot 🦆" />
     </td>
-    <td width="72%" valign="middle">
+    <td width="70%" valign="middle">
       <h2>🦆 Calvin Soares</h2>
       <p><b>Software Engineer | Financial Systems, High Availability & AI Agents</b></p>
       <p>
@@ -87,12 +87,8 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-
-  <img height="180" src="https://github-stats-extended.vercel.app/api?username=CalvinSoares&show_icons=true&theme=tokyonight&hide_border=true&include_orgs=true" />
-  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=CalvinSoares&layout=compact&theme=tokyonight&hide_border=true&hide=html,css&langs_count=8" />
-
+  <img src="https://github-stats-extended.vercel.app/api?username=CalvinSoares&show_icons=true&theme=tokyonight&hide_border=true&include_orgs=true" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=CalvinSoares&layout=compact&theme=tokyonight&hide_border=true&hide=html,css&langs_count=8" width="48%" />
   <br/><br/>
-
-  <img src="https://streak-stats.demolab.com/?user=CalvinSoares&theme=tokyonight&hide_border=true" />
-
+  <img src="https://streak-stats.demolab.com/?user=CalvinSoares&theme=tokyonight&hide_border=true" width="97%" />
 </div>
